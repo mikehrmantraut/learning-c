@@ -1,2 +1,2 @@
 # learning-c
-I will make a c path for beginners. 
+I will add C programming language algorithms from beginner to intermediate level
