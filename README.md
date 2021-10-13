@@ -1,2 +1,3 @@
 # learning-c
-I will add C programming language algorithms from beginner to intermediate level
+
+![cover-page](https://user-images.githubusercontent.com/76072666/137207368-46830d23-90ea-4cda-bbfa-a509150f34c1.png)
