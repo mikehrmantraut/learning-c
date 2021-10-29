@@ -1,6 +1,6 @@
-/*
-** C program to find maximum between three numbers.
-*/
+/**
+ * C program to find maximum between three numbers.
+ */
 
 #include <stdio.h>
 
