@@ -1,6 +1,6 @@
-/*
-** C program check whether a number is even or odd.
-*/
+/**
+ * C program check whether a number is even or odd.
+ */
 
 #include <stdio.h>
 int main()
