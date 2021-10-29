@@ -1,6 +1,6 @@
 /**
-* C program to check whether a character is Uppercase or Lowercase.
-*/
+ * C program to check whether a character is Uppercase or Lowercase.
+ */
 
 #include <stdio.h>
 
