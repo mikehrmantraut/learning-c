@@ -1,6 +1,6 @@
 /**
-* C program whether first character is alphabet or not.
-*/
+ * C program whether first character is alphabet or not.
+ */
 
 #include <stdio.h>
 
