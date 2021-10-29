@@ -1,5 +1,5 @@
 /**
- * C program to input basic salary of an employee and calculate its Gross Salary. (According to following:)
+ * C program to input basic salary of an employee and calculate its Gross Salary.
  */
  
 #include <stdio.h>
