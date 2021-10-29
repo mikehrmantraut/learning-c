@@ -1,6 +1,6 @@
 /**
-* C program to check Leap Year.
-*/
+ * C program to check Leap Year.
+ */
 
 #include <stdio.h>
 
