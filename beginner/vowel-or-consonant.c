@@ -1,6 +1,6 @@
 /**
-* C program to check vowel or consonant.
-*/
+ * C program to check vowel or consonant.
+ */
 
 #include <stdio.h>
 
