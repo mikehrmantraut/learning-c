@@ -1,3 +1,7 @@
+/**
+ * C program to convert fahrenheit to celsius.
+ */
+
 #include <stdio.h>
 
 /* print Fahrenheit-Celsius table
