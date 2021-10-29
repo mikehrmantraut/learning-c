@@ -1,6 +1,6 @@
 /**
-* C program to check whether a character is alphabet, digit or special character.
-*/
+ * C program to check whether a character is alphabet, digit or special character.
+ */
 
 #include <stdio.h>
 
