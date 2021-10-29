@@ -1,6 +1,6 @@
 /**
-* C program to enter week number and print day of week.
-*/
+ * C program to enter week number and print day of week.
+ */
 
 #include <stdio.h>
 
