@@ -1,6 +1,6 @@
 /**
-* C program to find number of days in month.
-*/
+ * C program to find number of days in month.
+ */
 
 #include <stdio.h>
 
