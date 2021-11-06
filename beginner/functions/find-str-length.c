@@ -1,5 +1,5 @@
 /**
- * C program to find length of the name entered by user.
+ * C program to find length of the string entered by user.
  */
  
  #include <stdio.h>
