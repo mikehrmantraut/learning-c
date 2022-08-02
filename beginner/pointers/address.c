@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-	int a,i;
-	char c;
+    int a,i;
+    char c;
     double x[5];
     int y[10];
     printf("The adress of a variable:%X\n",&a);
