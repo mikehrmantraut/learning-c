@@ -36,7 +36,7 @@ void push(int i)
 int pop(void)
 {
     if (p1 == top_of_stack){
-        printf("Stack Overflow.\n");
+        printf("Stack Underflow.\n");
         exit(1);
     }
     p1--;
